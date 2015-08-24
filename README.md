@@ -1,2 +1,3 @@
 # idea-config-sync
-repository for syncing 
+broken-ass repository for syncing 
+
