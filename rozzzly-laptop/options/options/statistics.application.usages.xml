@@ -1,0 +1,209 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-include-path">
+      <project id="work" values="0" collectionTime="0" />
+      <project id="ReactDevshop" values="0" collectionTime="1440110732067" />
+      <project id="online-services" values="0" collectionTime="0" />
+      <project id="nervices" values="0" collectionTime="1440417554875" />
+      <project id="tom.date" values="0" collectionTime="1439506303197" />
+      <project id="publish" values="0" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="0" collectionTime="1438447923661" />
+      <project id="OnlineServices" values="0" collectionTime="1439492179613" />
+      <project id="meteor-flux-leaderboard" values="0" collectionTime="1440120088438" />
+      <project id="login.php" values="0" collectionTime="0" />
+      <project id="updatePlayer.php" values="0" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="meteor-flux-leaderboard" values="Git" collectionTime="1440120088428" />
+      <project id="ReactDevshop" values="Git" collectionTime="1440110731300" />
+      <project id="online-services" values="Git" collectionTime="0" />
+      <project id="OnlineServices" values="Git" collectionTime="1439492179494" />
+      <project id="tom.date" values="Git" collectionTime="1439506302833" />
+      <project id="nervices" values="Git" collectionTime="1440417554649" />
+      <project id="DigitalSea" values="Git" collectionTime="1438447923438" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="nervices" values="BashConfigurationType" collectionTime="1440417554649" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="meteor-flux-leaderboard" values="meteor-app-runner" collectionTime="1440120088428" />
+    </group>
+    <group name="php-servers">
+      <project id="work" values="0" collectionTime="0" />
+      <project id="ReactDevshop" values="0" collectionTime="1440110732083" />
+      <project id="online-services" values="0" collectionTime="0" />
+      <project id="nervices" values="0" collectionTime="1440417554878" />
+      <project id="tom.date" values="0" collectionTime="1439506303201" />
+      <project id="publish" values="0" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="0" collectionTime="1438447923664" />
+      <project id="OnlineServices" values="0" collectionTime="1439492179623" />
+      <project id="meteor-flux-leaderboard" values="0" collectionTime="1440120088438" />
+      <project id="login.php" values="0" collectionTime="0" />
+      <project id="updatePlayer.php" values="0" collectionTime="0" />
+    </group>
+    <group name="deployment server">
+      <project id="meteor-flux-leaderboard" values="SFTP" collectionTime="1440120088438" />
+      <project id="ReactDevshop" values="SFTP" collectionTime="1440110732066" />
+      <project id="online-services" values="SFTP" collectionTime="0" />
+      <project id="OnlineServices" values="SFTP" collectionTime="1439492179609" />
+      <project id="tom.date" values="SFTP" collectionTime="1439506303194" />
+      <project id="publish" values="SFTP" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="SFTP" collectionTime="1438447923659" />
+      <project id="login.php" values="SFTP" collectionTime="0" />
+      <project id="updatePlayer.php" values="SFTP" collectionTime="0" />
+    </group>
+    <group name="php-interpreters">
+      <project id="work" values="0" collectionTime="0" />
+      <project id="ReactDevshop" values="1" collectionTime="1440110732305" />
+      <project id="online-services" values="0" collectionTime="0" />
+      <project id="nervices" values="0" collectionTime="1440417554879" />
+      <project id="tom.date" values="1" collectionTime="1439506303265" />
+      <project id="publish" values="0" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="1" collectionTime="1438447923699" />
+      <project id="OnlineServices" values="1" collectionTime="1439492179800" />
+      <project id="meteor-flux-leaderboard" values="0" collectionTime="1440120088438" />
+      <project id="login.php" values="0" collectionTime="0" />
+      <project id="updatePlayer.php" values="0" collectionTime="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="work" values="DEFAULT" collectionTime="0" />
+      <project id="ReactDevshop" values="JSX Harmony" collectionTime="1440110732066" />
+      <project id="online-services" values="DEFAULT" collectionTime="0" />
+      <project id="nervices" values="JSX Harmony" collectionTime="1440417554874" />
+      <project id="tom.date" values="DEFAULT" collectionTime="1439506303195" />
+      <project id="publish" values="DEFAULT" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="DEFAULT" collectionTime="1438447923660" />
+      <project id="OnlineServices" values="JSX Harmony" collectionTime="1439492179609" />
+      <project id="meteor-flux-leaderboard" values="JSX Harmony" collectionTime="1440120088438" />
+      <project id="login.php" values="DEFAULT" collectionTime="0" />
+      <project id="updatePlayer.php" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="work" values="Project,Project" collectionTime="0" />
+      <project id="ReactDevshop" values="Project,Project,Project" collectionTime="1440110732066" />
+      <project id="online-services" values="Project,Project" collectionTime="0" />
+      <project id="nervices" values="Project,Project,Project,Project,Project,Project,Project" collectionTime="1440417554874" />
+      <project id="tom.date" values="Project,Project" collectionTime="1439506303195" />
+      <project id="publish" values="Project,Project" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="Project,Project" collectionTime="1438447923660" />
+      <project id="OnlineServices" values="Project,Project,Project,Project,Project,Project" collectionTime="1439492179609" />
+      <project id="meteor-flux-leaderboard" values="Project,Project,Project,Project" collectionTime="1440120088438" />
+      <project id="login.php" values="Project,Project" collectionTime="0" />
+      <project id="updatePlayer.php" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="work" values="XML,UNKNOWN,PLAIN_TEXT" collectionTime="0" />
+      <project id="ReactDevshop" values="C++,Git file,JSHint file,ESLint,CSS,Images,Npm file,PATCH,YAML,XML,Sass,JSCS,Bash,ReST,JSON,CoffeeScript,JSHint,JavaScript,HTML,SmartyConfig,SCSS,Less,UNKNOWN,PLAIN_TEXT,SourceMap,ARCHIVE,Literate CoffeeScript,TypeScript,Markdown,Handlebars/Mustache" collectionTime="1440110731330" />
+      <project id="online-services" values="XML,SmartyConfig,PLAIN_TEXT,Gitignore file,UNKNOWN" collectionTime="0" />
+      <project id="nervices" values="ESLint,Bash,SourceMap,Markdown,JSON,Git file,HTML,CSS,PATCH,Npm file,XML,JavaScript,SCSS,UNKNOWN,JSHint,PLAIN_TEXT,YAML" collectionTime="1440417554649" />
+      <project id="tom.date" values="Git file,SourceMap,JavaScript,CSS,UNKNOWN,JSON,XML,HTML,PLAIN_TEXT" collectionTime="1439506302846" />
+      <project id="publish" values="PLAIN_TEXT,UNKNOWN,XML" collectionTime="1440120245914" />
+      <project id="DigitalSea" values="Git file,Less,CSS,YAML,JSON,Images,UNKNOWN,PHP,JavaScript,TypeScript,htaccess,PLAIN_TEXT,XML,HTML,ARCHIVE" collectionTime="1438447923447" />
+      <project id="OnlineServices" values="SourceMap,PLAIN_TEXT,HTML,XML,CSS,Git file,JSON,UNKNOWN,JavaScript" collectionTime="1439492179556" />
+      <project id="meteor-flux-leaderboard" values="JavaScript,UNKNOWN,Git file,PLAIN_TEXT,HTML,XML,JSON,CSS" collectionTime="1440120088436" />
+      <project id="login.php" values="PHP,UNKNOWN" collectionTime="0" />
+      <project id="updatePlayer.php" values="UNKNOWN,PHP" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="work" values="WEB_MODULE" collectionTime="0" />
+      <project id="ReactDevshop" values="WEB_MODULE" collectionTime="1440110731300" />
+      <project id="online-services" values="WEB_MODULE" collectionTime="0" />
+      <project id="nervices" values="WEB_MODULE" collectionTime="1440417554649" />
+      <project id="tom.date" values="WEB_MODULE" collectionTime="1439506302834" />
+      <project id="publish" values="WEB_MODULE" collectionTime="1440120245904" />
+      <project id="DigitalSea" values="WEB_MODULE" collectionTime="1438447923438" />
+      <project id="OnlineServices" values="WEB_MODULE" collectionTime="1439492179494" />
+      <project id="meteor-flux-leaderboard" values="WEB_MODULE" collectionTime="1440120088428" />
+      <project id="login.php" values="WEB_MODULE" collectionTime="0" />
+      <project id="updatePlayer.php" values="WEB_MODULE" collectionTime="0" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="work" values="0" collectionTime="0" />
+      <project id="ReactDevshop" values="0" collectionTime="1440110732306" />
+      <project id="online-services" values="0" collectionTime="0" />
+      <project id="nervices" values="0" collectionTime="1440417554881" />
+      <project id="tom.date" values="0" collectionTime="1439506303267" />
+      <project id="publish" values="0" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="0" collectionTime="1438447923699" />
+      <project id="OnlineServices" values="0" collectionTime="1439492179801" />
+      <project id="meteor-flux-leaderboard" values="0" collectionTime="1440120088438" />
+      <project id="login.php" values="0" collectionTime="0" />
+      <project id="updatePlayer.php" values="0" collectionTime="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="work" values="not installed" collectionTime="0" />
+      <project id="ReactDevshop" values="not installed" collectionTime="1440110732083" />
+      <project id="online-services" values="not installed" collectionTime="0" />
+      <project id="nervices" values="not installed" collectionTime="1440417554878" />
+      <project id="tom.date" values="not installed" collectionTime="1439506303201" />
+      <project id="publish" values="not installed" collectionTime="1440120245916" />
+      <project id="DigitalSea" values="not installed" collectionTime="1438447923664" />
+      <project id="OnlineServices" values="not installed" collectionTime="1439492179623" />
+      <project id="meteor-flux-leaderboard" values="not installed" collectionTime="1440120088438" />
+      <project id="login.php" values="not installed" collectionTime="0" />
+      <project id="updatePlayer.php" values="not installed" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="13" />
+      <entry feature="NewDirectoryProjectAction.Meteor App" count="4" />
+      <entry feature="NewDirectoryProjectAction.empty" count="4" />
+      <entry feature="execute.BashConfigurationType.Run" count="1" />
+      <entry feature="execute.meteor-app-runner.Run" count="4" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.refactoring.renameFile" count="1" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Background_Image" count="4" />
+      <entry feature="ide.settings.BashSupport" count="1" />
+      <entry feature="ide.settings.CSS" count="8" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="9" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="6" />
+      <entry feature="ide.settings.Console_Colors" count="1" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.Custom" count="1" />
+      <entry feature="ide.settings.DBGp_Proxy" count="3" />
+      <entry feature="ide.settings.Deployment" count="16" />
+      <entry feature="ide.settings.Diff" count="3" />
+      <entry feature="ide.settings.Directories" count="5" />
+      <entry feature="ide.settings.Editor_Tabs" count="2" />
+      <entry feature="ide.settings.File_Status" count="1" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="17" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.HTML" count="5" />
+      <entry feature="ide.settings.Images" count="2" />
+      <entry feature="ide.settings.Inspections" count="8" />
+      <entry feature="ide.settings.JSON" count="2" />
+      <entry feature="ide.settings.JavaScript" count="10" />
+      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.LESS" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="15" />
+      <entry feature="ide.settings.Less" count="1" />
+      <entry feature="ide.settings.Libraries" count="4" />
+      <entry feature="ide.settings.Live_Templates" count="1" />
+      <entry feature="ide.settings.Options" count="6" />
+      <entry feature="ide.settings.PHP" count="2" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ide.settings.SQL" count="1" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.Sass" count="2" />
+      <entry feature="ide.settings.Sass/SCSS" count="2" />
+      <entry feature="ide.settings.Smart_Keys" count="2" />
+      <entry feature="ide.settings.TypeScript" count="1" />
+      <entry feature="ide.settings.Usage_Statistics" count="1" />
+      <entry feature="ide.settings.Version_Control" count="3" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="63" />
+      <entry feature="tips.of.the.day.next" count="59" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Export" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateDirectoryProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateWebProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>
