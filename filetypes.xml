@@ -5,6 +5,7 @@
       <mapping ext="cached" type="JavaScript" />
       <mapping ext="map" type="JavaScript" />
       <mapping pattern="Started" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="fuckme" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
