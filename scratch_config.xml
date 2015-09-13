@@ -8,9 +8,10 @@
         <option value="scratch&amp;3.xml" />
         <option value="scratch&amp;4.xml" />
         <option value="htmlformat.html" />
+        <option value="format.html" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="htmlformat.html" />
+    <option name="lastOpenedScratch" value="format.html" />
     <option name="needMigration" value="false" />
   </component>
 </application>
