@@ -26,6 +26,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="ExportKeymap">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
     <mouse-shortcut keystroke="shift control alt button3" />
@@ -67,6 +70,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
