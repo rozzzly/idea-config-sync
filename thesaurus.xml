@@ -1,5 +1,0 @@
-<application>
-  <component name="ThesaurusPlugin">
-    <option name="thesaurusApiClass" value="BigHugeThesaurus" />
-  </component>
-</application>

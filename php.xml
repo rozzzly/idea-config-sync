@@ -1,8 +1,0 @@
-<application>
-  <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
-  </component>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
-</application>
