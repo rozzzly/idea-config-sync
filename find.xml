@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Icon\Icon.js'" />
-    <option name="defaultScopeName" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Icon\Icon.js'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Icon\Icon.js'" />
+    <option name="customScope" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\lodash\src\chain.js'" />
+    <option name="defaultScopeName" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\lodash\src\chain.js'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\lodash\src\chain.js'" />
   </component>
 </application>
