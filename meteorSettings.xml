@@ -1,0 +1,6 @@
+<application>
+  <component name="MeteorSettings">
+    <option name="autoImport" value="false" />
+    <option name="startOnce" value="true" />
+  </component>
+</application>

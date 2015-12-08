@@ -1,5 +1,19 @@
 <application>
   <component name="libraryTable">
+    <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Projects/nervices/app/packages/prodash/.npm/package/node_modules/lodash/index.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Projects/nervices/app/packages/prodash/.npm/package/node_modules/lodash/index.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="https://lodash.com/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="react-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
