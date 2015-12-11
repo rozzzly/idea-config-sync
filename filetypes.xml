@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="SystemMap" type="ECMAScript 6" />
+      <mapping pattern="ModalDemo" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
