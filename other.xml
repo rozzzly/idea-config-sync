@@ -74,6 +74,30 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.7" last-modified="1436503174000" />
   </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="55881980f0c110ee3731ee6d" name="nervices [development]" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="54d054861ae434a6143f3c45" name="rozzzly" />
+      </option>
+      <password>df9cdf99dfc8df9adf9adf9ddf9edf99df9cdfc8df93dfc9df98df9cdf9fdf9adf92df9cdf9edfcedfc9dfccdfccdf98dfccdf9edf9cdf98df98dfc9df9fdf92df9bdf99df93df99dfcbdfccdf9edf9bdf9edf9ddfccdf99dfc8df9edfcbdf9adfcfdf92dfcfdfc8dfcbdfccdf9ddfc8df9edfcfdfcfdf9ddfcfdf9cdfccdfcf</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
   <component name="SyncEdit.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
     <option name="WHOLEWORDSELECTION_ENABLED" value="true" />
