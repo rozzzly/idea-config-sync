@@ -19,11 +19,11 @@
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="5668" />
+    <option name="ADDED_LINES_COLOR" value="6579" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="fc600" />
-    <option name="CARET_ROW_COLOR" value="73642" />
+    <option name="CARET_ROW_COLOR" value="84c5c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="FILESTATUS_MODIFIED" value="4a8fa0" />
     <option name="GUTTER_BACKGROUND" value="73642" />
@@ -1261,6 +1261,13 @@
         <option name="FOREGROUND" value="c1bd37" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="2ed824" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="76900" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -2019,7 +2026,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="439aed" />
+        <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
