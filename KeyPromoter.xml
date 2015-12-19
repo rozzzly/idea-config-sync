@@ -1,0 +1,12 @@
+<application>
+  <component name="KeyPromoterConfiguration">
+    <option name="settings">
+      <KeyPromoterSettings>
+        <option name="displayTime" value="400" />
+        <option name="flashAnimationDelay" value="300" />
+        <option name="proposeToCreateShortcutCount" value="30" />
+        <option name="fixedTipPosistion" value="true" />
+      </KeyPromoterSettings>
+    </option>
+  </component>
+</application>

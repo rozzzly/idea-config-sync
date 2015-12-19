@@ -1,0 +1,60 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.TableResult.CloneColumn" />
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorSelectFavourite" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="FormatElement" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="PreviousSyncEditableWordAction" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentFiles" />
+  <action id="ShowUmlDiagram" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Switcher" />
+  <action id="UML.ShowChanges" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+</keymap>

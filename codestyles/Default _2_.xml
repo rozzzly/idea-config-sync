@@ -1,0 +1,12 @@
+<code_scheme name="Default (2)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
