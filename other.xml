@@ -1,0 +1,14 @@
+<application>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="windows" />
+    <executeWithDefaultAppCommand value="rundll32.exe url.dll,FileProtocolHandler $FilePath$" tokenizerDelims="" />
+    <showInFileManagerCommand value="explorer.exe /select,$FilePath$" tokenizerDelims="" />
+    <openCommandShellInCommand value="cmd /c &quot;$PluginsHome$\NativeNeighbourhood\classes\org\intellij\plugins\nativeNeighbourhood\icons\windows\cmd.bat&quot;" tokenizerDelims="" />
+    <selectInFileManagerName value="Windows Explorer" />
+    <nativeExtensions value="doc,xls,ppt,mdb,vsd,pdf,exe,lnk,hlp,chm" />
+  </component>
+  <component name="SyncEdit.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+    <option name="WHOLEWORDSELECTION_ENABLED" value="true" />
+  </component>
+</application>
