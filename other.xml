@@ -7,6 +7,9 @@
     <selectInFileManagerName value="Windows Explorer" />
     <nativeExtensions value="" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.7" last-modified="1436503174000" />
+  </component>
   <component name="SyncEdit.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
     <option name="WHOLEWORDSELECTION_ENABLED" value="true" />
