@@ -58,6 +58,10 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.7" last-modified="1436503174000" />
   </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
   <component name="SyncEdit.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
     <option name="WHOLEWORDSELECTION_ENABLED" value="true" />
