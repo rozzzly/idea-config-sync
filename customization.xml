@@ -50,9 +50,19 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="OpenFileInConsoleToolbarAction" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Annotate" is_action="true" action_type="1" position="17">
@@ -90,93 +100,114 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="DomCollectionControl.Add" is_action="true" action_type="1" position="25">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="25">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="26">
+    <group value="DomCollectionControl.Add" is_action="true" action_type="1" position="26">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="27">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="27">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Debugger.MarkObject" is_action="true" action_type="1" position="28">
+    <group seperator="true" action_type="1" position="28">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.JumpToSource" is_action="true" action_type="1" position="29">
+    <group value="Debugger.MarkObject" is_action="true" action_type="1" position="29">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="UsageView.Include" is_action="true" action_type="1" position="30">
+    <group value="XDebugger.JumpToSource" is_action="true" action_type="1" position="30">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Graph.Print" is_action="true" action_type="1" position="31">
+    <group value="UsageView.Include" is_action="true" action_type="1" position="31">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FixDocComment" is_action="true" action_type="1" position="32">
+    <group value="Graph.Print" is_action="true" action_type="1" position="32">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="LivePlugin-CodeHistoryMiningState" is_action="true" action_type="1" position="33">
+    <group value="FixDocComment" is_action="true" action_type="1" position="33">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.Inspect" is_action="true" action_type="1" position="34">
+    <group value="LivePlugin-CodeHistoryMiningState" is_action="true" action_type="1" position="34">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.JumpToTypeSource" is_action="true" action_type="1" position="35">
+    <group value="XDebugger.Inspect" is_action="true" action_type="1" position="35">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="36">
+    <group value="XDebugger.JumpToTypeSource" is_action="true" action_type="1" position="36">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NewPackageJsonFile" is_action="true" action_type="1" position="37">
+    <group seperator="true" action_type="1" position="37">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MarkAsOriginalTypeAction" is_action="true" action_type="1" position="38">
+    <group value="NewPackageJsonFile" is_action="true" action_type="1" position="38">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivatenpmToolWindow" is_action="true" action_type="1" position="39">
+    <group value="MarkAsOriginalTypeAction" is_action="true" action_type="1" position="39">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="40">
+    <group value="ActivatenpmToolWindow" is_action="true" action_type="1" position="40">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Debugger.EvaluateInConsole" is_action="true" action_type="1" position="41">
+    <group seperator="true" action_type="1" position="41">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EvaluateInConsole" is_action="true" action_type="1" position="42">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group action_type="1" position="43">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="44">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group action_type="1" position="45">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Debugger.EvaluateInConsole" />
     <action id="LivePlugin-CodeHistoryMiningState" />
+    <action id="Git.Fetch" />
     <action id="Annotate" />
     <action id="Debugger.MarkObject" />
     <action id="MarkAsOriginalTypeAction" />
