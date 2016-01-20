@@ -1,4 +1,7 @@
 <keymap version="1" name="roz" parent="$default">
+  <action id="Arrangement.Custom.Token.Rule.Edit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -38,6 +41,9 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FormatElement" />
   <action id="GotoTest" />
