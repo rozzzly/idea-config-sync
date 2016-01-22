@@ -6,8 +6,12 @@
           <option name="url" value="git@github.com:jaysoo/todomvc-redux-react-typescript.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ericterpstra/phaser-webstorm-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\rozzzly\Projects\tsTest" />
+    <option name="cloneParentDir" value="C:\Users\rozzzly\Projects\untitled" />
   </component>
 </application>
