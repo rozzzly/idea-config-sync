@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\main.js'" />
-    <option name="defaultScopeName" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\main.js'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\main.js'" />
+    <option name="customScope" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Button.js'" />
+    <option name="defaultScopeName" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Button.js'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\rozzzly\Projects\nervices\app\packages\finesse\components\Button.js'" />
   </component>
 </application>
