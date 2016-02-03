@@ -58,6 +58,9 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="PascalDeVink.thesaurusLookup">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
@@ -90,6 +93,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Resume" />
   <action id="ShowProjectStructureSettings" />
   <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
@@ -111,6 +115,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher" />
+  <action id="ToggleBookmark" />
   <action id="UML.ShowChanges" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
@@ -121,5 +126,11 @@
   </action>
   <action id="com.eslint">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="com.karateca.jstoolbox.generatemethod.GenerateMethodAction">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="com.karateca.jstoolbox.generatemethod.OverrideMethodAction">
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
 </keymap>
