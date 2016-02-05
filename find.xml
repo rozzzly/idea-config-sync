@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="File 'C:\Users\rozzzly\Projects\ncessant\src\index.js'" />
+    <option name="defaultScopeName" value="File 'C:\Users\rozzzly\Projects\ncessant\src\index.js'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\rozzzly\Projects\ncessant\src\index.js'" />
   </component>
 </application>
