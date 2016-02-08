@@ -72,7 +72,7 @@
     <nativeExtensions value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.7" last-modified="1436503174000" />
+    <node-interpreter path="C:/Program Files/nodejs-5/node.exe" version="5.5.0" last-modified="1453360304000" />
   </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
