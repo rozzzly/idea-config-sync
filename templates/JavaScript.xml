@@ -1,0 +1,19 @@
+<templateSet group="JavaScript">
+  <template name="@mo" value="@module $PROJ$" description="@module tag" toReformat="true" toShortenFQNames="true">
+    <variable name="PROJ" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="@aut" value="@author rozzzly &lt;pclienau@gmail.com&gt;" description="@author tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
