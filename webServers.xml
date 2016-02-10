@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="91365478-c7b7-4fb8-82c6-45eafd76e323" name="rozzzly.xyz" url="http://rozzzly.xyz">
-        <fileTransfer host="rozzzly.xyz" port="22" privateKey="C:\Users\rozzzly\.ssh\id_rsa" rootFolder="/var/www/html/tom/OnlineServices/app/packages/ncessant" accessType="SFTP" passphrase="dfdedfc2dfcfdfc7dfcbdfc4dfc3dfc4dff8df99dfeedf89dfc3dfd9dfc4dfc5dfdddf84dfcedfcfdfcbdfce" username="rozzzly" keyPair="true">
+        <fileTransfer host="rozzzly.xyz" port="22" privateKey="C:\Users\rozzzly\.ssh\id_rsa" rootFolder="/var/www/html/packages/heretical" accessType="SFTP" passphrase="dfdedfc2dfcfdfc7dfcbdfc4dfc3dfc4dff8df99dfeedf89dfc3dfd9dfc4dfc5dfdddf84dfcedfcfdfcbdfce" username="rozzzly" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
