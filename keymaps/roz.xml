@@ -19,6 +19,12 @@
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
@@ -48,12 +54,14 @@
   <action id="FormatElement" />
   <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.Hide" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="f6" second-keystroke="f6" />
   </action>
   <action id="Move" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -64,6 +72,7 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousSyncEditableWordAction" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -132,5 +141,11 @@
   </action>
   <action id="com.karateca.jstoolbox.generatemethod.OverrideMethodAction">
     <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.EscapeJavaScriptAction">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.NonAsciiToUnicodeEscapedAction">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
 </keymap>
