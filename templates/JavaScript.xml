@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="@mo" value="@module heretical/$PATH$/$FILE$" description="@module tag" toReformat="true" toShortenFQNames="true">
+  <template name="@mo" value="@module cssculpt/$PATH$/$FILE$" description="@module tag" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="FILE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -19,5 +19,16 @@
   </template>
   <template name="us" value="&quot;use strict&quot;;&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
+  </template>
+  <template name="@mem" value="@memberOf module:cssculpt/$PATH$/$FILE$" description="@memberOf module:myModule/myFile" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
   </template>
 </templateSet>

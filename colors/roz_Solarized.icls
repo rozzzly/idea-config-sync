@@ -1268,6 +1268,11 @@
         <option name="FOREGROUND" value="c1bd37" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="ffea77" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="657b83" />
