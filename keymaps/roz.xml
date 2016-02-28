@@ -1,4 +1,7 @@
 <keymap version="1" name="roz" parent="$default">
+  <action id="Arrangement.Custom.Token.Rule.Edit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -6,12 +9,21 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeHistoryMiningPopup">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
   <action id="Console.TableResult.CloneColumn" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="shift back_space" />
@@ -36,17 +48,31 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="FormatElement" />
+  <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.Hide" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="f6" second-keystroke="f6" />
+  </action>
+  <action id="Move" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="PascalDeVink.thesaurusLookup">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousSyncEditableWordAction" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -63,13 +89,20 @@
     <mouse-shortcut keystroke="alt button2" />
     <mouse-shortcut keystroke="shift control button3" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Resume" />
   <action id="ShowProjectStructureSettings" />
   <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
@@ -91,6 +124,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher" />
+  <action id="ToggleBookmark" />
   <action id="UML.ShowChanges" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
@@ -101,5 +135,17 @@
   </action>
   <action id="com.eslint">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="com.karateca.jstoolbox.generatemethod.GenerateMethodAction">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="com.karateca.jstoolbox.generatemethod.OverrideMethodAction">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.EscapeJavaScriptAction">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.NonAsciiToUnicodeEscapedAction">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
 </keymap>

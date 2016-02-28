@@ -33,6 +33,7 @@
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="345366" />
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
@@ -971,7 +972,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="1f70a6" />
       </value>
     </option>
@@ -1267,6 +1268,11 @@
         <option name="FOREGROUND" value="c1bd37" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="ffea77" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1558,6 +1564,11 @@
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
