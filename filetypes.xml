@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="SystemMap" type="ECMAScript 6" />
       <mapping pattern="JSONImport" type="JavaScript" />
