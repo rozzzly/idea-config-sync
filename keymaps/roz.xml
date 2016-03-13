@@ -31,6 +31,8 @@
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectFavourite" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -40,6 +42,16 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="ExportKeymap">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
@@ -54,10 +66,17 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="FormatElement" />
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.Hide" />
   <action id="InspectCode">
@@ -105,11 +124,25 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
