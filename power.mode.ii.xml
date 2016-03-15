@@ -1,0 +1,12 @@
+<application>
+  <component name="PowerModeII">
+    <option name="flameLife" value="1667" />
+    <option name="heatup" value="45" />
+    <option name="heatupTime" value="8281" />
+    <option name="maxFlameSize" value="123" />
+    <option name="particleCount" value="13" />
+    <option name="particleLife" value="1990" />
+    <option name="particleSize" value="2" />
+    <option name="shakeRange" value="6" />
+  </component>
+</application>
