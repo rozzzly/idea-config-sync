@@ -18,7 +18,9 @@
     </context>
   </template>
   <template name="us" value="&quot;use strict&quot;;&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
+    <context>
+      <option name="JS_STATEMENT" value="false" />
+    </context>
   </template>
   <template name="@mem" value="@memberOf module:cssculpt/$PATH$/$FILE$" description="@memberOf module:myModule/myFile" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
