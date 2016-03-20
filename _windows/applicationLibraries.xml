@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="chai" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="lodash-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
