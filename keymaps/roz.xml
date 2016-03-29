@@ -2,6 +2,9 @@
   <action id="Arrangement.Custom.Token.Rule.Edit">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -171,9 +174,6 @@
   </action>
   <action id="com.eslint">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
-  </action>
-  <action id="com.karateca.jstoolbox.generatemethod.GenerateMethodAction">
-    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="com.karateca.jstoolbox.generatemethod.OverrideMethodAction">
     <keyboard-shortcut first-keystroke="f9" />
