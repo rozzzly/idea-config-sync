@@ -1,4 +1,9 @@
 <templateSet group="Zen CSS">
+  <template name="@m" value="@media $VAR0$ {&#10;  $VAR1$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;screen&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="!" value="!important" description="!important" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
