@@ -80,11 +80,11 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs-5/node.exe">
-      <version-cache version="5.7.1" last-modified="1456979016000" />
+      <version-cache version="5.10.0" last-modified="1459493684000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs-5/node.exe" version="5.7.1" last-modified="1456979016000" />
+    <node-interpreter path="C:/Program Files/nodejs-5/node.exe" version="5.10.0" last-modified="1459493684000" />
   </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
