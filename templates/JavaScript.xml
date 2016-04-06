@@ -33,7 +33,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="it(" value="it('$DESCRIPTION$', () =&gt; {&#10;    $BODY$&#10;});" description="mocha it() statement" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;    $BODY$&#10;});" description="mocha it() statement" toReformat="false" toShortenFQNames="true">
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
