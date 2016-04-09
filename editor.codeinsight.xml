@@ -10,4 +10,8 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseJSImports" value="false" />
+    <option name="COLLAPSE_JS_IMPORTS" value="false" />
+  </component>
 </application>
