@@ -618,24 +618,31 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="252f" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="6b7c" />
+        <option name="EFFECT_COLOR" value="821f" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="252f" />
-        <option name="EFFECT_COLOR" value="6b7c" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="821f" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="b57d2f" />
+        <option name="FOREGROUND" value="d68700" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="4acb17" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="d12b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -671,7 +678,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="a7613f" />
+        <option name="FOREGROUND" value="d12b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -703,7 +710,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="c1bd37" />
+        <option name="FOREGROUND" value="d3e000" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -720,8 +727,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c16416" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="a559c1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -748,12 +754,12 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="79a71" />
+        <option name="FOREGROUND" value="d12b" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cc902a" />
+        <option name="FOREGROUND" value="cccc1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -762,13 +768,19 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="252f" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="6b7c" />
+        <option name="EFFECT_COLOR" value="821f" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="b0ae9c" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="d12b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -1252,20 +1264,29 @@
     </option>
     <option name="JS.DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="dc565e" />
+        <option name="FOREGROUND" value="80a9ff" />
         <option name="BACKGROUND" value="73642" />
-        <option name="EFFECT_COLOR" value="4452" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="c394cc" />
+        <option name="FOREGROUND" value="cc4cb1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c1bd37" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="4585c1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="47b181" />
       </value>
     </option>
     <option name="JS.REGEXP">
