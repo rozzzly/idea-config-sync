@@ -1,56 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="@mo" value="@module cssculpt/$PATH$/$FILE$" description="@module tag" toReformat="true" toShortenFQNames="true">
-    <variable name="PATH" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="FILE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="@aut" value="@author rozzzly &lt;pclienau@gmail.com&gt;" description="@author tag" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="us" value="&quot;use strict&quot;;&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="JS_STATEMENT" value="false" />
-    </context>
-  </template>
-  <template name="@mem" value="@memberOf module:cssculpt/$PATH$/$FILE$" description="@memberOf module:myModule/myFile" toReformat="false" toShortenFQNames="true">
-    <variable name="PATH" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="FILE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;    $BODY$&#10;});" description="mocha it() statement" toReformat="false" toShortenFQNames="true">
-    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="desc" value="describe('$DESCRIPTION$', () =&gt; {&#10;    $BODY$&#10;});" description="mocha describe() statement" toReformat="false" toShortenFQNames="true">
-    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
