@@ -1,0 +1,23 @@
+<templateSet group="mocha">
+  <template name="des" value="describe('$description$', () =&gt; {&#10;    $body$&#10;});" description="describe()" toReformat="true" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('$desc$', () =&gt; {&#10;    $body$&#10;});" description="it()" toReformat="true" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
