@@ -82,6 +82,12 @@
   <action id="FormatElement" />
   <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="HelloPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+  <action id="HelloWorldAction">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
