@@ -3,9 +3,9 @@
     <option name="justInstalled" value="false" />
     <option name="pluginsUsage">
       <map>
-        <entry key="helloWorld" value="1" />
+        <entry key="helloWorld" value="2" />
         <entry key="popupMenu" value="4" />
-        <entry key="registerAction" value="2" />
+        <entry key="registerAction" value="3" />
       </map>
     </option>
   </component>
