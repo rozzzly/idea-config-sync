@@ -1,4 +1,7 @@
 <templateSet group="Zen HTML">
+  <template name="meta:utf" value="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;" description="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="inp" value="&lt;input type=&quot;$VAR0$&quot; name=&quot;$NAME$&quot; id=&quot;$ID$&quot;&gt;" description="&lt;input type=&quot;...&quot; name=&quot;...&quot; id=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
