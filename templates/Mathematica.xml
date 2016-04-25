@@ -1,7 +1,103 @@
 <templateSet group="Mathematica">
-  <template name="wth" value="With[{$VARS$}, $SELECTION$$END$]" description="With[{vars}, body]" toReformat="true" toShortenFQNames="false">
+  <template name="wth" value="With[{$VARS$}, $SELECTION$$END$]" description="With[{vars}, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="VARS" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
     <variable name="SELECTION" expression="" defaultValue="&quot;body&quot;" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="blk" value="Block[{$VARS$}, $SELECTION$$END$]" description="Block[{vars}, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VARS" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="mdl" value="Module[{$VARS$}, $SELECTION$$END$]" description="Module[{vars}, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VARS" expression="" defaultValue="&quot;vars&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="cmpl" value="Compile[{$VARS$}, $SELECTION$$END$]" description="Compile[{vars}, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VARS" expression="" defaultValue="&quot;{x, _Real}&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fnct" value="Function[{$VARS$}, $SELECTION$$END$]" description="Function[{vars}, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VARS" expression="" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="do" value="Do[$SELECTION$$END$, {$ITER$}]" description="Do[body, {iter}]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="ITER" expression="" defaultValue="&quot;iter&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="for" value="For[$VAR$ = 0, $VAR$ &lt; $MAX$, $VAR$++, $SELECTION$$END$]" description="For[start, test, inc, body]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VAR" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="MAX" expression="" defaultValue="&quot;max&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="tbl" value="Table[$SELECTION$$END$, {$VAR$, $LIMITS$}]" description="Table[body, {var, min, max}]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="VAR" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="LIMITS" expression="" defaultValue="&quot;min, max, stepSize&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fld" value="Fold[$SELECTION$$END$, $FIRST$, $LIST$]" description="Fold[func, firstElement, list]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="FIRST" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="LIST" expression="" defaultValue="&quot;list&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="nst" value="Nest[$FUNC$, $EXPR$, $COUNT$]$END$" description="Nest[func, expr, n]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="FUNC" expression="" defaultValue="&quot;func&quot;" alwaysStopAt="true" />
+    <variable name="EXPR" expression="" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="COUNT" expression="" defaultValue="&quot;n&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="if" value="If[$COND$, $SELECTION$$END$]" description="If[cond, then]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="COND" expression="" defaultValue="&quot;cond&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ife" value="If[$COND$, $THEN$, $ELSE$]$END$" description="If[cond, then, else]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="COND" expression="" defaultValue="&quot;cond&quot;" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="&quot;then&quot;" alwaysStopAt="true" />
+    <variable name="ELSE" expression="" defaultValue="&quot;else&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="swtch" value="Switch[$EXPR$, $FORM1$, $VAL1$, $FORM2$, $VAL2$$MORE_ARGS$]$END$" description="Switch[expr, form1, value1, form2, value2]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="EXPR" expression="" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="FORM1" expression="" defaultValue="&quot;form1&quot;" alwaysStopAt="true" />
+    <variable name="VAL1" expression="" defaultValue="&quot;value1&quot;" alwaysStopAt="true" />
+    <variable name="FORM2" expression="" defaultValue="&quot;form2&quot;" alwaysStopAt="true" />
+    <variable name="VAL2" expression="" defaultValue="&quot;value2&quot;" alwaysStopAt="true" />
+    <variable name="MORE_ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="whch" value="Which[$BODY$$END$]" description="Which[test1, value1, test2, value2]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="BODY" expression="" defaultValue="&quot;test1, val1, test2, val2&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="chck" value="Check[$EXPR$, $FAIL$, $MSG$]$END$" description="Check[expr, fail, msg]" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="EXPR" expression="" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="FAIL" expression="" defaultValue="&quot;fail&quot;" alwaysStopAt="true" />
+    <variable name="MSG" expression="" defaultValue="&quot;symbol::msg&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pre" value="$SYM$@($SELECTION$)$END$" description="Prefix selection with f@" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="SYM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pst" value="($SELECTION$ // $SYM$)$END$" description="Postfix selection with //f" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="SYM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ass" value="&lt;|$SELECTION$|&gt;$END$" description="Surround selection with &lt;| |&gt;" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <context />
+  </template>
+  <template name="usg" value="$SYM$::usage = &quot;$SYM$[$END$]&quot;;" description="Create usage message" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="SYM" expression="" defaultValue="&quot;sym&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="opt" value="Options[$SYM$] = { $LHS$ -&gt; $END$}" description="Create options for a symbol" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="SYM" expression="" defaultValue="&quot;sym&quot;" alwaysStopAt="true" />
+    <variable name="LHS" expression="" defaultValue="&quot;optionName&quot;" alwaysStopAt="true" />
+    <variable name="END" expression="" defaultValue="&quot;Automatic&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="msg" value="$SYM$::$TAG$ = &quot;$END$&quot;;" description="Create usage message" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="SYM" expression="" defaultValue="&quot;sym&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="" defaultValue="&quot;tag&quot;" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>

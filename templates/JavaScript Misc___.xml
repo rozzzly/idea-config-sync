@@ -100,4 +100,14 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="jsdocHeader" value="/**&#10; * @module cssculpt/$MODULE_PATH$&#10; * @author rozzzly &lt;pclienau@gmail.com&gt;&#10; * @fileOverview $FILE_OVERVIEW$&#10; * " description="jsdoc file header" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE_PATH" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILE_OVERVIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
