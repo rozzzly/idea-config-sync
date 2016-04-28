@@ -11,14 +11,14 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="lodash-DefinitelyTyped" type="javaScript">
+    <library name="lodash" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+          <item url="file://$USER_HOME$/Projects/cssculpt/typings/main/ambient/lodash/index.d.ts" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+        <root url="file://$USER_HOME$/Projects/cssculpt/typings/main/ambient/lodash/index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
